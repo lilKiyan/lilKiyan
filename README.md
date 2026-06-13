@@ -62,9 +62,8 @@
 
 ### 📫 Let’s connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/kyan-dev) — *(replace with your real link)*
-- 🐦 [Twitter / X](https://twitter.com/lilKiyan) — *(optional)*
-- ✉️ **lilkiyan@example.com** — *(replace with your real email)*
+- 💼 [Telegram](https://t.me/lolkiyan) — *(replace with your real link)*
+- ✉️ **kiyannaghiee85@gmail.com** — *(replace with your real email)*
 
 ---
 
