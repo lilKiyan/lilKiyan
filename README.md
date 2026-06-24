@@ -62,8 +62,8 @@
 
 ### 📫 Let’s connect
 
-- 💼 [Telegram](https://t.me/lolkiyan) — *(replace with your real link)*
-- ✉️ **kiyannaghiee85@gmail.com** — *(replace with your real email)*
+- 💼 [Telegram](https://t.me/lolkiyan)
+- ✉️ **kiyannaghiee85@gmail.com**
 
 ---
 
